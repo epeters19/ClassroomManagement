@@ -1,4 +1,4 @@
-# ClassroomManagement
+# Classroom Management and the Rescorla-Wagner model
 using the Rescorla-Wagner model to illustrate functional behavior theory and classroom management 
 # Classroom Management: Rescorla-Wagner Model Implementation
 
