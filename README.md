@@ -48,6 +48,7 @@ This model can help educators:
 
 ## Contact
 Emily Peters/epeters7@uco.edu
+Here is a video explaining the model and the project: https://youtu.be/Op6V7GxyTC8
 
 ## Acknowledgments
 - Rescorla & Wagner for the foundational learning model
