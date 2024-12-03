@@ -47,6 +47,12 @@ This model can help educators:
 Emily Peters/epeters7@uco.edu
 Here is a video explaining the model and the project: https://youtu.be/Op6V7GxyTC8
 
+## Citation
+Sugai, G., & Simonsen, B. (2020). Reinforcement Foundations of a Function-Based Behavioral Approach for Students With Challenging Behavior. Beyond Behavior, 29(2), 78–85. https://www.jstor.org/stable/26921936
+![image](https://github.com/user-attachments/assets/3767751a-fbef-47ec-94ac-6371bea5965c)
+
+
+
 ## Acknowledgments
 - Rescorla & Wagner for the foundational learning model
 - Dr. Vanhoy
