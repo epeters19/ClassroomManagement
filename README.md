@@ -19,10 +19,7 @@ The Rescorla-Wagner model is a pioneering psychological theory that explains how
 - Familiarity with behavioral learning theories (recommended)
 
 ## Installation
-1. Clone the repository
-```bash
-git clone https://github.com/[epeters19]/classroom-management
-```
+1. Clone the R file
 2. Ensure R is installed on your system
 3. Open the R script in your preferred R environment
 
